@@ -1,2 +1,0 @@
-# Geometry-Dash
-Sanicrack24
